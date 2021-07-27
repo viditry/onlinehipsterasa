@@ -42,6 +42,8 @@
     "devServerPort": 4200,
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en"]
+    "languages": ["en"],
+    "entities": ["Customer", "Invoice", "OrderItem", "Product", "ProductCategory", "ProductOrder", "Shipment"],
+    "lastLiquibaseTimestamp": 1627366358000
   }
 }
